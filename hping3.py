@@ -12,7 +12,7 @@ print ("""
 \033[1;m                                                                                           
 """)
 
-mg= ("RMSociety")
+mg= ("HiddenShot")
 long= len(mg) + 8
 print('\033[1;91m'"#"+ long * '-' + "#"'\033[1;91m')
 print("|"+ long*' '+"|")
